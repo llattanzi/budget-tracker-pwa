@@ -19,7 +19,7 @@
   - Run 'npm start' to start the server
 
   ## Usage:
-  Visit to start tracking your budget!
+  Visit https://glacial-anchorage-78752.herokuapp.com/ to start tracking your budget!
 
   ## Licenses:
   MIT<br/>
